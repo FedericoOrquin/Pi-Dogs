@@ -1,0 +1,9 @@
+.containerPages{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    align-items: center;
+    justify-content: center;
+}
